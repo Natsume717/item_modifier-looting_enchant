@@ -1,0 +1,2 @@
+# item_modifier-looting_enchant
+item_modifierの1項目であるlooting_enchantに関するサンプルになります。

@@ -1,0 +1,20 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:lapis_lazuli",
+            "functions": [
+              {
+                "function": "minecraft:looting_enchant",
+                "count": 1,
+                "limit": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

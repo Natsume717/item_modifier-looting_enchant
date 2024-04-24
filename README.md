@@ -1,8 +1,7 @@
 # item_modifier-looting_enchant
 item_modifierの1項目であるlooting_enchantに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】looting_enchantでドロップ数を変化させる【item_modifier】](https://natsumake.com/item_modifier-looting_enchant/)』を参考にしてください。
 
 <h3>概要</h3>
 looting_enchantは、ドロップ増加のエンチャントが付与されているアイテムで倒した際の、アイテムドロップ数を変化させるものです。
